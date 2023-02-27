@@ -9,7 +9,7 @@
 
 :root {
 
-    --dk-violet: hsl(268, 75%, 9%);
+    --dk-violet: hsl(264, 91%, 18%);
     --lt-violet: hsl(268, 47%, 21%);
     --lt-violet2: hsl(281, 89%, 26%);
     --vb-violet: hsl(285, 91%, 52%);
@@ -32,7 +32,7 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background: linear-gradient(231deg, rgba(22, 6, 40, 1) 0%, rgba(52, 28, 79, 1) 50%, rgb(214, 52, 155) 100%);
+    background: linear-gradient(231deg, rgb(180, 200, 221) 0%, rgb(160, 73, 194) 50%, rgb(214, 52, 155) 100%);
 }
 
 .container {
